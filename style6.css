@@ -1,0 +1,27 @@
+ /* h1   we change the h1 to #heading as heading is its id and the h1 can be repelaced from its id   */
+ h1
+{
+    color: blue;
+    background-color: darkgreen;
+}
+body 
+{
+    background-color: red;
+}
+button
+{
+    background-color: blueviolet;
+    color: white;
+} 
+
+/* class k lie uske namm k strt me . lga den a h  */
+
+.joker
+{
+    background-color: darkslategray;
+}
+
+
+
+
+
